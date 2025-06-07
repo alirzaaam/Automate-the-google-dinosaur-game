@@ -7,7 +7,7 @@
   
   2. Make sure the game is visible on screen and ready to start.
   
-  3. Run the Python script (either from your IDE or terminal).
+  3. Run the Python script.
   
   4. Go back to the game tab and press space to start the game.
   
